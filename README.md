@@ -44,6 +44,4 @@ The goal of this analysis is to help businesses understand sales performance and
 * Ecommerce Dataset
 * Dashboard Screenshots
 
-## Author
 
-Created as part of the **Future Interns Data Science & Analytics Task 1 (2026)**.
